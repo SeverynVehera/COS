@@ -1,4 +1,4 @@
-package edu.lnu.electronics.Lab_1;
+package edu.lnu.electronics.lab1;
 
 public class Lab1_Main {
 
